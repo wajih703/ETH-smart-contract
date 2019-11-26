@@ -22,4 +22,5 @@
             "name": "Launch Program",
             "program": "${file}"
         }
+    ]
 }
